@@ -6,7 +6,7 @@
 1. SweepGradient  
 ![image](https://github.com/tianyalu/NePaintDemo/blob/master/show/sweep_gradient_circle.png)  
 1. BitmapGradient  
-![image](https://github.com/tianyalu/NePaintDemo/blob/master/show/bitmap_gradient_circle.png)  
+![image](https://github.com/tianyalu/NePaintDemo/blob/master/show/bitmap_gradient_rect.png)  
 1. ComposeGradient  
 ![image](https://github.com/tianyalu/NePaintDemo/blob/master/show/compose_gradient_circle.png) 
 

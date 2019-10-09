@@ -163,7 +163,7 @@ public class GradientLayout extends View {
         mShader = new BitmapShader(mBitmap, Shader.TileMode.CLAMP, Shader.TileMode.CLAMP); //当bitmap不够大时水平和竖直方向最后一个像素填充
         mPaint.setShader(mShader);
 //        canvas.drawCircle(250, 250, 250, mPaint);
-        canvas.drawRect(0, 0, 1000, 1000, mPaint); //参考show/bitmap_gradient_circle.png
+        canvas.drawRect(0, 0, 1000, 1000, mPaint); //参考show/bitmap_gradient_rect.png
     }
 
     /**
