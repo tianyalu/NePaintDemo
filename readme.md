@@ -1,4 +1,4 @@
-### NePaintDemo Paint应用demo
+### NePaintDemo Paint滤镜应用demo
 1. LinearGradient  
 ![image](https://github.com/tianyalu/NePaintDemo/blob/master/show/linear_gradient_rect.png)  
 1. RadialGradient  
